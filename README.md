@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning python and C++  
+- 📫 How to reach me: zzhang@outlook.my
+- 😄 Pronouns: he/him/hims
 
 <!--
 **zzhang2006/zzhang2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
