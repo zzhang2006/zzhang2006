@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🏫 I‘m learning in Beijing No.166 High School
+- 📚 I'm a 11th grade student
 - 🌱 I’m currently learning python and C++  
 - 📫 How to reach me: zzhang@outlook.my
 - 😄 Pronouns: he/him/hims
